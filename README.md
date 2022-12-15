@@ -14,6 +14,9 @@ Explore stacked classifiers to acheive best results.
 ## HOW TO RUN:
 All ipynb files can be run using Jupiter Notebook or Google Collab.
 
+Full Analysis Notebook - Group 5 Wine Type and Quality
+Wine Brewer Widget - Wine Brewer stacked Classifiers 2
+
 ## METHOD USED:
 Split the data in 70% for training and 30% for testing.
 
@@ -42,5 +45,5 @@ We managed to build high prediction models with 99% score for Wine Type and 98% 
 The stacked classifiers consistently showed great results for the Wine Quality prediction.
 More feature engineering could have been done to combine features related to acidity or density with alcohol.
 
-
+I created a simple widget which can take wine chemical properties and output the wine quality.
 
