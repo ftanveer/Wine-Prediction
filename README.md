@@ -1,5 +1,7 @@
 # Wine Type and Quality Prediction
 
+Please read Group 5 Wine Quality Report - Google Docs (1).pdf for full report. 
+
 Jupiter notebook for full analysis:
 
 Wine Type and Quality prediction.ipynb
